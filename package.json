@@ -4,7 +4,8 @@
   "description": "A sample page for React-PDF.",
   "private": true,
   "scripts": {
-    "build": "webpack"
+    "build": "webpack",
+    "dev": "http-server ./dist"
   },
   "author": {
     "name": "Wojciech Maj",
