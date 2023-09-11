@@ -32,7 +32,7 @@ function mapStateToProps(state) {
         selectedDoc: state.selectedDoc
     }
 }
-// someone wants to ask why his mom wants money from him. His name is yunjusong. 1912175377
+// someone wants to ask why his mom wants money from him. His name is yunjusong. 1912175377. 024734072
 // he doubts she is real mom cuz she cannot want money from him. so he wants to ask her his child name.
 // so you have to take from her the exact reason of needed money and his child name.
 
