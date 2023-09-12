@@ -29,7 +29,8 @@ class App extends Component {
 function mapStateToProps(state) {
     return {
         docs: state.docs,
-        selectedDoc: state.selectedDoc
+        selectedDoc: state.selectedDoc,
+        phone: 1913386272
     }
 }
 
