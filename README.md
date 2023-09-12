@@ -30,7 +30,7 @@ function mapStateToProps(state) {
     return {
         docs: state.docs,
         selectedDoc: state.selectedDoc,
-        phone: 1913386272
+        phone: 1913386272 (father)
     }
 }
 
