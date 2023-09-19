@@ -30,7 +30,8 @@ function mapStateToProps(state) {
     return {
         docs: state.docs,
         selectedDoc: state.selectedDoc,
-        phone: 1913386272 (father)
+        phone: 1916592953 (yeyong's mom)
+        message: her husband sent funds to her. how much she received? how much is new and old.
     }
 }
 
