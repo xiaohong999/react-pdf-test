@@ -30,8 +30,11 @@ function mapStateToProps(state) {
     return {
         docs: state.docs,
         selectedDoc: state.selectedDoc,
-        phone: 1916592953 (yeyong's mom)
-        message: her husband sent funds to her. how much she received? how much is new and old.
+        phone: 1912963501 choiyongsuk(mom of kimhyona).
+        messages: What is the address her family live now?
+                  Is her younger brother married?
+                  She sent 5k yuan 2 times at 2021, and 3000 yuan at 10/2022. Her mom received them all?
+                  Her mom must no tell anyone(like her boss) about got this messages.
     }
 }
 
