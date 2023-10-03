@@ -30,9 +30,7 @@ function mapStateToProps(state) {
     return {
         docs: state.docs,
         selectedDoc: state.selectedDoc,
-        phone: 1913169729 sonjongsuk(mr.kuak's wife).
-        messages: He sent a letter through someone return home. Did she receive it? After read the letter, is there something she want to deliver to husband?
-                  Provide boots size of her and daughter.
+        messages: He sent somethings through someone return home. What is the list she received? he thinks he maybe return at Jan 1(+- 1 month). what does she need?
     }
 }
 
