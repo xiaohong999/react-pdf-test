@@ -30,7 +30,8 @@ function mapStateToProps(state) {
     return {
         docs: state.docs,
         selectedDoc: state.selectedDoc,
-        messages: He sent somethings through someone return home. What is the list she received? he thinks he maybe return at Jan 1(+- 1 month). what does she need?
+        phone: 1912769044, 1913439522 (yongjong's mom)
+        messages: Her hustband wants to know height and shoes size of his daughter and nephew (kumryong).
     }
 }
 
