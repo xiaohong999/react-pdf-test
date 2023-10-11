@@ -30,8 +30,8 @@ function mapStateToProps(state) {
     return {
         docs: state.docs,
         selectedDoc: state.selectedDoc,
-        phone: 1912674938 (kimsini's mom)
-        messages: How is making up house going? When will it be completed?. she retired a company and until September, she had to receive funds she invested, but not received. Did she receive it? or when it will be received?
+        phone: 1912674938 (kimsini's mom) from her husband.
+        messages: How is setting up new house going (she bought new house few months ago)? When will it be completed?. Until September, she have funds to be returned from company she invested, but seems like she's not received. Did she receive it? or when it will be received?
     }
 }
 
