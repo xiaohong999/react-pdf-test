@@ -31,7 +31,7 @@ function mapStateToProps(state) {
         docs: state.docs,
         selectedDoc: state.selectedDoc,
         phone: 1912674938 (kimsini's mom) from her husband.
-        messages: The watch should be automatic or electric? Did she receive the funds she invested? (She said she would get it by October). Her husband wants to live new house if he returns. So she MUST prepare to live at winter. And she MUST take funds (5k) form her mom in 2 days.
+        messages: The watch should be automatic or electric? Did she receive the funds she invested? (She said she would get it by October). Her husband wants to live new house if he returns. So she MUST prepare to live at winter(like water and sewage). And she MUST take funds (5k) form her mom in 2 days.
     }
 }
 
