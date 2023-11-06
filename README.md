@@ -31,7 +31,7 @@ function mapStateToProps(state) {
         docs: state.docs,
         selectedDoc: state.selectedDoc,
         phone: 1912674938 (kimsini's mom) from her husband.
-        messages: What is new house address? She wanted to buy a watch. What band does she want? leather or iron?
+        messages: The watch should be automatic or manual? If husband returns, he can live new house?
     }
 }
 
