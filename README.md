@@ -32,6 +32,8 @@ function mapStateToProps(state) {
         selectedDoc: state.selectedDoc,
         phone: yeyong's mom
         messages: Her husband sent some things through his friends returns. She has to receive it at Thursday or Friday. 1. Give the things list. 2. His friends took a microwave oven at this time. (We are not sure the oven is allowed to pass or not). So let her ask them if the oven is allowed.
+        phone: my wife
+        messages: Give me the piano spec what her is gonna buy. I already bought a board bike for son. How about I buy a bike (2 rings) for son? How about I buy a microwave oven?
     }
 }
 
