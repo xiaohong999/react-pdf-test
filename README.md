@@ -31,7 +31,7 @@ function mapStateToProps(state) {
         docs: state.docs,
         selectedDoc: state.selectedDoc,
         phone: sini's mom
-        messages: Her husband bought 2 mink coats and 2 watches she wanted. She received the funds from her mom? Her hustand want that she should send $1000 to someone (Mr.KwakHakBin's home - 1913169729) by this week.
+        messages: Her husband bought 2 mink coats and 2 watches she wanted. She received the funds from her mom? Her hustand wants that she buy microwave oven(she wanted to buy it here) in there. Her hustand wants that she should send $1000 to someone (Mr.KwakHakBin's home - 1913169729) by this week.
     }
 }
 
