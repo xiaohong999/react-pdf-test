@@ -30,8 +30,8 @@ function mapStateToProps(state) {
     return {
         docs: state.docs,
         selectedDoc: state.selectedDoc,
-        questions(si): what is stand iron? High pressure oven is high pressure cooker? She will send 1k to Mr.Kwak?
-        questions:(yy): she has not get things yet?
+        questions(si): Ask she bought an oven (few days ago, her husband did let her buy it there). If she has not yet, her husband really need to buy it here? this means the oven is required or not.
+        
     }
 }
 
