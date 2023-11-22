@@ -30,7 +30,8 @@ function mapStateToProps(state) {
     return {
         docs: state.docs,
         selectedDoc: state.selectedDoc,
-        questions(si): Ask she bought an oven (few days ago, her husband did let her buy it there). If she has not yet, her husband really need to buy it here? this means the oven is required or not.
+        phone: 1913475614 (GwangSu's home)
+        questions: Ask if they(his parents) took new house? (not buying)
         
     }
 }
