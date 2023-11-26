@@ -34,7 +34,8 @@ function mapStateToProps(state) {
         questions: Ask what they require when his son returns (don't say nothing. saying helps him and save money). His son is gonna buy big refrigerator. That's okay for them?
         phone2: 1915196853 (HyonSu's home)
         questions: Ask what they require when his son returns (don't say nothing. saying helps him and save money). Did his sister marry?
-        
+        phone3: sini's
+        questions: does she need water heater (with gas, not electric)
     }
 }
 
