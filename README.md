@@ -30,8 +30,10 @@ function mapStateToProps(state) {
     return {
         docs: state.docs,
         selectedDoc: state.selectedDoc,
-        phone: 1913475614 (GwangSu's home)
-        questions: Ask if they(his parents) took new house? (not buying)
+        phone1: 1913475614 (GwangSu's home)
+        questions: Ask what they require when his son returns (don't say nothing. saying helps him and save money). His son is gonna buy big refrigerator. That's okay for them?
+        phone2: 1915196853 (HyonSu's home)
+        questions: Ask what they require when his son returns (don't say nothing. saying helps him and save money). Did his sister marry?
         
     }
 }
